@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20190427</pubdate>
+                <title>NH Watershed Boundaries (HUC12)</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>U.S. Geological Survey</publish>
+                </pubinfo>
+                <onlink>https://nhgeodata.unh.edu/nhgeodata/rest/services/IWR/WaterResources/MapServer/3</onlink>
+                <onlink>https://ftp.granit.unh.edu/GRANIT_Data/Vector_Data/Inland_Water_Resources/d-nhnhd/NHD_H_New_Hampshire_State_GDB.gdb.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The NHD is a national framework for assigning reach addresses to water-related entities, such as industrial discharges, drinking water supplies, fish habitat areas, wild and scenic rivers. Reach addresses establish the locations of these entities relative to one another within the NHD surface water drainage network, much like addresses on streets. Once linked to the NHD by their reach addresses, the upstream/downstream relationships of these water-related entities--and any associated information about them--can be analyzed using software tools ranging from spreadsheets to geographic information systems (GIS). GIS can also be used to combine NHD-based network analysis with other data layers, such as soils, land use and population, to help understand and display their respective effects upon one another. Furthermore, because the NHD provides a nationally consistent framework for addressing and analysis, water-related information linked to reach addresses by one organization (national, state, local) can be shared with other organizations and easily integrated into many different types of applications to the benefit of all.</abstract>
+            <purpose>Watershed boundaries were extracted (and clipped to the NH state boundary) from the National Hydrography Dataset (NHD), a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. NHD data was originally developed at 1:100,000-scale and exists at that scale for the whole country.  This high-resolution NHD, generally developed at 1:24,000/1:12,000 scale, adds detail to the original 1:100,000-scale NHD.  (Data for Alaska, Puerto Rico and the Virgin Islands was developed at high-resolution, not 1:100,000 scale.)  Local resolution NHD is being developed where partners and data exist. The NHD contains reach codes for networked features, flow directions, names, and centerline representations for areal water bodies.  Reaches are also defined on waterbodies and the approximate shorelines of the Great Lakes, the Atlantic and Pacific Oceans and the Gulf of Mexico. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.</purpose>
+            <supplinf>This data comprises hydrological data, including flow lines, water bodies and water features. Data were downloaded in June, 2019 from the USGS National Map.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>19880101</begdate>
+                    <enddate>20120101</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>Irregular</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-73.058</westbc>
+                <eastbc>-69.791</eastbc>
+                <northbc>45.431</northbc>
+                <southbc>42.078</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Subbasin</themekey>
+                <themekey>National Hydrography Dataset (NHD) Best Resolution</themekey>
+                <themekey>Special Use Zone</themekey>
+                <themekey>Bay/Inlet</themekey>
+                <themekey>HU4</themekey>
+                <themekey>Boundary</themekey>
+                <themekey>Sea/Ocean</themekey>
+                <themekey>Nonearthen Shore</themekey>
+                <themekey>Well</themekey>
+                <themekey>HU16</themekey>
+                <themekey>Subwatershed</themekey>
+                <themekey>Rapids</themekey>
+                <themekey>PointEvent</themekey>
+                <themekey>Wall</themekey>
+                <themekey>Orthoimage</themekey>
+                <themekey>Drainage Areas for Surface Water</themekey>
+                <themekey>Reach Code</themekey>
+                <themekey>HU14</themekey>
+                <themekey>Hydrologic Units</themekey>
+                <themekey>Point</themekey>
+                <themekey>Swamp</themekey>
+                <themekey>Marsh</themekey>
+                <themekey>Sub-basin</themekey>
+                <themekey>Gaging Station</themekey>
+                <themekey>Hazard Zone</themekey>
+                <themekey>Gate</themekey>
+                <themekey>Watershed</themekey>
+                <themekey>Special Use Zone Limit</themekey>
+                <themekey>Dams</themekey>
+                <themekey>FileGDB 10.1</themekey>
+                <themekey>Rock</themekey>
+                <themekey>HUC</themekey>
+                <themekey>HU12</themekey>
+                <themekey>Tunnel</themekey>
+                <themekey>Levee</themekey>
+                <themekey>Stream</themekey>
+                <themekey>Watershed Boundary Dataset</themekey>
+                <themekey>Artificial Path</themekey>
+                <themekey>Watershed Boundaries</themekey>
+                <themekey>Region</themekey>
+                <themekey>Topographic</themekey>
+                <themekey>Dam/Weir</themekey>
+                <themekey>Canal/Ditch</themekey>
+                <themekey>Surface Water Systems</themekey>
+                <themekey>Reach</themekey>
+                <themekey>Playa</themekey>
+                <themekey>Pond</themekey>
+                <themekey>ForeShore</themekey>
+                <themekey>Rivers</themekey>
+                <themekey>Underground Conduit</themekey>
+                <themekey>Bridge</themekey>
+                <themekey>Hydrography</themekey>
+                <themekey>Line</themekey>
+                <themekey>Administrative Watershed Units</themekey>
+                <themekey>Submerged Stream</themekey>
+                <themekey>Area of Complex Channels</themekey>
+                <themekey>Waterfall</themekey>
+                <themekey>Sub-region</themekey>
+                <themekey>State</themekey>
+                <themekey>Lock</themekey>
+                <themekey>Flow Direction Network</themekey>
+                <themekey>Hydrologic Unit Code</themekey>
+                <themekey>Inundation Area</themekey>
+                <themekey>Connector</themekey>
+                <themekey>HU2</themekey>
+                <themekey>Spillway</themekey>
+                <themekey>Lakes</themekey>
+                <themekey>Wash</themekey>
+                <themekey>Sink/Rise</themekey>
+                <themekey>Reservoir</themekey>
+                <themekey>Estuary</themekey>
+                <themekey>Boundaries</themekey>
+                <themekey>Area to be Submerged</themekey>
+                <themekey>HU6</themekey>
+                <themekey>Basin</themekey>
+                <themekey>Drainage Systems and Characteristics</themekey>
+                <themekey>Ice Mass</themekey>
+                <themekey>WBD</themekey>
+                <themekey>Reef</themekey>
+                <themekey>HU10</themekey>
+                <themekey>HU8</themekey>
+                <themekey>Hydrographic</themekey>
+                <themekey>Coastline</themekey>
+                <themekey>Flume</themekey>
+                <themekey>Sounding Datum Line</themekey>
+                <themekey>Subregion</themekey>
+                <themekey>Stream/River</themekey>
+                <themekey>Water Intake Outflow</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>inlandWaters</themekey>
+            </theme>
+            <place>
+                <placekt>Geographic Names Information System</placekt>
+                <placekey>Rockingham County</placekey>
+                <placekey>New Hampshire</placekey>
+                <placekey>Hillsborough County</placekey>
+                <placekey>US</placekey>
+                <placekey>Belknap County</placekey>
+                <placekey>Coos County</placekey>
+                <placekey>Carroll County</placekey>
+                <placekey>Grafton County</placekey>
+                <placekey>NH</placekey>
+                <placekey>Cheshire County</placekey>
+                <placekey>Strafford County</placekey>
+                <placekey>Merrimack County</placekey>
+                <placekey>Sullivan County</placekey>
+            </place>
+            <place>
+                <placekt>Geographic Names Information System</placekt>
+                <placekey>US</placekey>
+                <placekey>United States</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>None. However, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgment of the U.S. Geological Survey would be appreciated for products derived from these data.</useconst>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Statements of attribute accuracy are based on accuracy statements made for U.S. Geological Survey Digital Line Graph (DLG) data, which is estimated to be 98.5 percent. One or more of the following methods were used to test attribute accuracy: manual comparison of the source with hardcopy plots; symbolized display of the DLG on an interactive computer graphic system; selected attributes that could not be visually verified on plots or on screen were interactively queried and verified on screen. In addition, software validated feature types and characteristics against a master set of types and characteristics, checked that combinations of types and characteristics were valid, and that types and characteristics were valid for the delineation of the feature. Feature types, characteristics, and other attributes conform to the Standards for National Hydrography Dataset (USGS, 1999) as of the date they were loaded into the database. All names were validated against a current extract from the Geographic Names Information System (GNIS). The entry and identifier for the names match those in the GNIS. The association of each name to reaches has been interactively checked, however, operator error could in some cases apply a name to a wrong reach.</attraccr>
+        </attracc>
+        <logic>Points, nodes, lines, and areas conform to topological rules. Lines intersect only at nodes, and all nodes anchor the ends of lines. Lines do not overshoot or undershoot other lines where they are supposed to meet. There are no duplicate lines. Lines bound areas and lines identify the areas to the left and right of the lines. Gaps and overlaps among areas do not exist. All areas close.</logic>
+        <complete>The completeness of the data reflects the content of the sources, which most often are the published USGS topographic quadrangle and/or the USDA Forest Service Primary Base Series (PBS) map. The USGS topographic quadrangle is usually supplemented by Digital Orthophoto Quadrangles (DOQs). Features found on the ground may have been eliminated or generalized on the source map because of scale and legibility constraints. In general, streams longer than one mile (approximately 1.6 kilometers) were collected. Most streams that flow from a lake were collected regardless of their length. Only definite channels were collected so not all swamp/marsh features have stream/rivers delineated through them. Lake/ponds having an area greater than 6 acres were collected. Note, however, that these general rules were applied unevenly among maps during compilation. Reach codes are defined on all features of type stream/river, canal/ditch, artificial path, coastline, and connector. Waterbody reach codes are defined on all lake/pond and most reservoir features. Names were applied from the GNIS database. Detailed capture conditions are provided for every feature type in the Standards for National Hydrography Dataset available online through http://mapping.usgs.gov/standards/.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Statements of horizontal positional accuracy are based on accuracy statements made for U.S. Geological Survey topographic quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For horizontal accuracy, this standard is met if at least 90 percent of points tested are within 0.02 inch (at map scale) of the true position. Additional offsets to positions may have been introduced where feature density is high to improve the legibility of map symbols. In addition, the digitizing of maps is estimated to contain a horizontal positional error of less than or equal to 0.003 inch standard error (at map scale) in the two component directions relative to the source maps. Visual comparison between the map graphic (including digital scans of the graphic) and plots or digital displays of points, lines, and areas, is used as control to assess the positional accuracy of digital data. Digital map elements along the adjoining edges of data sets are aligned if they are within a 0.02 inch tolerance (at map scale). Features with like dimensionality (for example, features that all are delineated with lines), with or without like characteristics, that are within the tolerance are aligned by moving the features equally to a common point. Features outside the tolerance are not moved; instead, a feature of type connector is added to join the features.</horizpar>
+            </horizpa>
+        </posacc>
+        <posacc>
+            <vertacc>
+                <vertaccr>Statements of vertical positional accuracy for elevation of water surfaces are based on accuracy statements made for U.S. Geological Survey topographic quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For vertical accuracy, this standard is met if at least 90 percent of well-defined points tested are within one-half contour interval of the correct value. Elevations of water surface printed on the published map meet this standard; the contour intervals of the maps vary. These elevations were transcribed into the digital data; the accuracy of this transcription was checked by visual comparison between the data and the map.</vertaccr>
+            </vertacc>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20190427</pubdate>
+                        <title>Hydrography</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>20100820</begdate>
+                            <enddate>20100820</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>Hydrography</srccitea>
+                <srccontr>Hydrography features and feature names</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20190427</pubdate>
+                        <title>Watershed Boundary Dataset (WBD)</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>19720101</begdate>
+                            <enddate>20120101</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>Watershed Boundary Dataset (WBD)</srccitea>
+                <srccontr>U.S. Geological Survey</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20190427</pubdate>
+                        <title>Gaging Stations</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srccitea>Gaging Stations</srccitea>
+                <srccontr>Hydrography features and gaging stations</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>New reaches were assigned reach code values that are sequentially ordered to 2-D and then 1-D reaches. New high-res reach codes are larger than any existing med-res reach code in the associated Catalog Unit. Additional Geographic Names that exist in the Geographic Names Information System (GNIS) were added to reaches in the high-res dataset. Names for the high-res drainage network were interactively transferred from the vector GNIS coverage. Additional GNIS names for point and water body features were also added.</procdesc>
+                <procdate>20190427</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <eainfo>
+        <overview>
+            <eaover>All feature types, characteristics, and values are in U.S. Geological Survey, 1999, Standards for National Hydrography Dataset: Reston, Virginia, U.S. Geological Survey. The document is available online through http://nationalmap.gov/standards/nhdstds.html. Information about tables and fields in the data are available from the user documentation for the National Hydrography Dataset available online through http://nhd.usgs.gov/documentation.html.</eaover>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Earth Systems Research Center, University of New Hampshire</cntorg>
+                    <cntper>GRANIT Database Manager</cntper>
+                </cntorgp>
+                <cntpos>GRANIT Database Manager</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Morse Hall, University of New Hampshire</address>
+                    <city>Durham</city>
+                    <state>NH</state>
+                    <postal>03824</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>603-862-1792</cntvoice>
+                <cntfax>603-862-0188</cntfax>
+                <cntemail>granit@unh.edu</cntemail>
+                <hours>8:30AM-5PM. EST</hours>
+            </cntinfo>
+        </distrib>
+        <distliab>Digital data in NH GRANIT represent the efforts of the contributing agencies to record information from the cited source materials. Earth Systems Research Center, under contract to the NH Office of Strategic Initiatives, and in consultation with cooperating agencies, maintains a continuing program to identify and correct errors in these data. OSI, ESRC, and the cooperating agencies make no claim as to the validity or reliability or to any implied uses of these data.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>FileGDB</formname>
+                    <transize>281845609</transize>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt/>
+                </digtopt>
+            </digform>
+            <fees>None</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20190427</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>U.S. Geological Survey, National Geospatial Technical Operations Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1400 Independence Road</address>
+                    <city>Rolla</city>
+                    <state>MO</state>
+                    <postal>65401</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>603-862-1792</cntvoice>
+                <cntemail>http://www.usgs.gov/ask/</cntemail>
+                <hours>Monday through Friday 8:00 AM to 4:00 PM</hours>
+                <cntinst>Metadata information can also be obtained through online services using The National Map Viewer, at http://nationalmap.usgs.gov or EarthExplorer, at http://earthexplorer.usgs.gov or Ask USGS at http://www.usgs.gov/ask</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
